@@ -1,0 +1,266 @@
+@media (max-width: 575.98px) { 
+    .input-newsletter{
+        flex-direction: column;
+       
+        margin: 0 auto;
+        text-align: center;
+    }
+    .form-control {
+        max-width: 100%;
+    }
+    .hero-buttons{
+        flex-direction: column;
+     }
+     .about-buttons{
+        flex-direction: column; 
+        gap: 12px 0;
+        }
+        .notify-buttons{
+            flex-direction: column;
+            gap: 12px 0;
+         }
+         .order-button{
+            padding-top: 40px;
+            flex-direction: column;
+            gap: 20px 0;
+         }
+ }
+@media (max-width: 768px) {
+   
+    .waves {
+        height: 40px;
+        min-height: 40px;
+    }
+    .pills {
+        font-size: 12px;
+        max-width: 115px;
+      }
+      .pill-center {
+        font-size: 12px;
+    }
+    .testi-box{
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+    .testiSwiper {
+     padding-left: 10;
+     padding-right: 10;
+    }
+    .why-content p{
+        max-width: 95%;
+        margin: 0 auto;
+    }
+   
+}
+@media (max-width: 991.98px) {
+    .order-button{
+        justify-content: center;
+        gap: 12px 12px;
+
+    }
+    .navbar-brand img {
+        max-width: 170px;
+    }
+    .hero-row{
+        flex-direction: column-reverse;
+    }
+    .hero-content{
+        padding-top: 24px;
+    }
+    .hero-row{
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+    #hero{
+        background-size: auto;
+        background-position: left -50% top 0%;
+    }
+    .about-content p{
+        max-width: 100%;
+    }
+    .about-image{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .about-content{
+        padding-top: 30px;
+    }
+    .about-row{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .why-content h5{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .why-content p{
+        padding-bottom: 26px;
+    }
+    .why-row{
+        gap: 40px 0;
+        padding-bottom: 60px;
+    }
+    #shop{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .shop-heading{
+        padding-bottom: 40px;
+    }
+    .gallery-pagination{
+        gap: 0 20px;
+        padding-top: 30px;
+    }
+    .gallery-pagination svg{
+        max-width: 40px;
+    }
+    .order-row{
+        padding-top: 60px;
+        padding-bottom: 64px;
+     }
+     .order-item-row {
+        padding-top: 0;
+        padding-bottom: 30px;
+     }
+     .order-min-image{
+        padding-top: 30px;
+        padding-bottom: 80px;
+     }
+     .order-item-row{
+        text-align: center;
+        gap: 50px;
+     }
+  
+     .contact-heading .pill-center{
+        max-width: 165px;
+        margin: 0 auto;
+     }
+     #testimoials{
+        padding: 60px 0;
+     }
+     .testimoials-heading-row {
+        text-align: center;
+     }
+     .testimoials-heading h4{
+        padding-top: 20px;
+        padding-bottom: 24px;
+     }
+     .card-slider{
+        padding: 50px 0;
+     }
+     .testi-next svg, .testi-prev svg{
+        max-width: 45px;
+     }
+    
+     #notice {
+        padding-top: 50px;
+        padding-bottom: 50px;
+     }
+     .notify-row{
+        flex-direction: column-reverse;
+     }
+     .notify-content{
+        padding-top: 40px;
+     }
+     .newsletter-row {
+        padding: 40px 20px;
+    }
+    .form-.input-group>.form-control, .input-group>.form-floating, .input-group>.form-select{
+        min-width: 300px;
+    }
+    .input-group{
+        flex-direction: column;
+    }
+    #contact{
+        padding: 60px 0;
+    }
+    .contact-row {
+        text-align: center;
+    }
+    .cp1417{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .contact-row{
+        gap: 40px 0;
+    }
+    .newsletter-content{
+        padding-bottom: 40px;
+    }
+    #faq{
+        padding-top: 10px;
+        padding-bottom: 30px ;
+    }
+    .contact-heading-row{
+        text-align: center;
+        justify-content: center;
+    }
+    .faq-row{
+        border: 0px;
+        padding: 30px 20px 30px 20px;
+    }
+    .faq-heading{
+        padding: 24px 0;
+    }
+    .accordion-item{
+        padding: 10px 0;
+    }
+    #footer{
+        padding: 60px 0 50px 0;
+    }
+    .footer-row{
+        gap: 50px 0;
+    }
+    .footer1 h6{
+        font-size: calc(clamp(1.125rem, 0.446vw + 0.964rem, 1.5rem));
+        padding-bottom: 10px;
+    }
+    .footer1 p{
+        font-size: calc(clamp(1rem, 0.298vw + 0.893rem, 1.25rem));
+    }
+    .footer1 .ft-btn a{
+        font-size: calc(clamp(1rem, 0.298vw + 0.893rem, 1.25rem));
+    }
+    .footr2 h6{
+        font-size: calc(clamp(1.125rem, 0.446vw + 0.964rem, 1.5rem));
+        padding-bottom: 10px;
+    }
+    .footr2 ul li a{
+        font-size: calc(clamp(1rem, 0.298vw + 0.893rem, 1.25rem));
+    }
+    .ft-list{
+        flex-direction: column;
+        gap: 12px 0;
+    }
+}
+
+
+@media (max-width: 1280px) {
+    .offcanvas {
+      width: 310px !important;
+    }
+    .offcanvas-start-lg {
+      top: 0;
+      right: 0;
+      border-right: 1px solid rgba(0, 0, 0, 0.2);
+      transform: translateX(100%);
+    }
+    .nav-item{
+        padding: 15px 0;
+    }
+    .menu {
+        max-width: 30px;
+    }
+    .navbar-nav {
+        justify-content: start;
+
+    }
+    .navbar{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    header .nav-link{
+        text-align: center;
+    }
+  }
+
